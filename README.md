@@ -124,3 +124,12 @@ CREATE TABLE OrderDetails (
 
 ## 📎 License
 This project is open-source and available under the [MIT License](LICENSE).
+
+
+
+## 📬 Contact
+
+📧 Email:(mohdsamiali758@gmail.com)
+
+🔗 LinkedIn:(www.linkedin.com/in/sami-ali-datascientist)
+
